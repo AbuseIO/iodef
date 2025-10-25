@@ -1,6 +1,6 @@
 {
     "name": "abuseio/iodef",
-    "version": "3.0",
+    "version": "3.0.1",
     "description": "Library for parsing IODEF in PHP",
     "keywords": ["iodef", "rfc5070"],
     "homepage": "http://e-rave.nl/iodef",

@@ -246,7 +246,7 @@ abstract class IodefElement implements SabreElement
      * @param  SabreWriter $writer
      * @return void
      */
-    public function xmlSerialize(SabreWriter $writer)
+    public function xmlSerialize(SabreWriter $writer): void
     {
         // Validate the attributes and value.
         if ($this->validate() === true) {
