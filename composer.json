@@ -1,5 +1,6 @@
 {
     "name": "abuseio/iodef",
+    "version": "3.0",
     "description": "Library for parsing IODEF in PHP",
     "keywords": ["iodef", "rfc5070"],
     "homepage": "http://e-rave.nl/iodef",
@@ -18,9 +19,9 @@
         "source": "https://github.com/marknl/iodef"
     },
     "require": {
-        "php": ">=7.4",
-        "sabre/xml": "~2.2.0",
-        "vlucas/valitron": "~1.4.2"
+        "php": ">=8.4",
+        "sabre/xml": "~4.0.6",
+        "vlucas/valitron": "~1.4.11"
     },
     "autoload": {
         "psr-4": {
